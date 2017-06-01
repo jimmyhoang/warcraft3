@@ -424,6 +424,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Warcraft 3/Warcraft 3-Prefix.pch";
 				INFOPLIST_FILE = "Warcraft 3/Warcraft 3-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lighthouseLabs.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -439,6 +440,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Warcraft 3/Warcraft 3-Prefix.pch";
 				INFOPLIST_FILE = "Warcraft 3/Warcraft 3-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lighthouseLabs.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";

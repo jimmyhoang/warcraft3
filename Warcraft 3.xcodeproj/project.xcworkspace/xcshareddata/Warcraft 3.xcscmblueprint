@@ -1,21 +1,21 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89825AA9F066D11086CBD6885C1D7B95F43E0AA6",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C" : 0,
-    "E2584D914A3FE042994062B2DC316BBF7F3C9421" : 0,
-    "0254DDCA-F704-4FEE-992E-21093496C14E" : 0
+    "3C4A92DDC0D4B8043683D5AE502B578294D78D08" : 9223372036854775807,
+    "0254DDCA-F704-4FEE-992E-21093496C14E" : 0,
+    "89825AA9F066D11086CBD6885C1D7B95F43E0AA6" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D2A2B42-C706-4A2D-BD18-2A21E8514C00",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C" : "iOS-Student-WarcraftIII",
-    "E2584D914A3FE042994062B2DC316BBF7F3C9421" : "",
-    "0254DDCA-F704-4FEE-992E-21093496C14E" : "iOS-WarcraftIII"
+    "3C4A92DDC0D4B8043683D5AE502B578294D78D08" : "",
+    "0254DDCA-F704-4FEE-992E-21093496C14E" : "iOS-WarcraftIII",
+    "89825AA9F066D11086CBD6885C1D7B95F43E0AA6" : "iOS-Student-WarcraftIII\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Warcraft 3",
-  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Warcraft 3.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
@@ -26,12 +26,12 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Instructor-Week1.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2584D914A3FE042994062B2DC316BBF7F3C9421"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C4A92DDC0D4B8043683D5AE502B578294D78D08"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Student-WarcraftIII.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E7E4E8D92D35D4F6D1803D5C24408B632FFFDB2C"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89825AA9F066D11086CBD6885C1D7B95F43E0AA6"
     }
   ]
 }
